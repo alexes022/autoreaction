@@ -1,0 +1,19 @@
+{
+  "name": "discord-multi-accounts",
+  "version": "1.0.0",
+  "description": "A multi-account Discord bot using discord.js-selfbot-v13 and sphinx-run.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.12.0",
+    "express": "^4.18.2",
+    "sphinx-run": "^1.0.5"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
